@@ -45,7 +45,7 @@ The following animation demonstrates the application functionality:
 
 ## Depoly website for Challenge 5
 ---
-[Horiseon website](https://rfox01.github.io/Work-Day-Scheduler/)
+[Scheduler website](https://rfox01.github.io/Work-Day-Scheduler/)
 
 ## License
 ---
