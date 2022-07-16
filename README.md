@@ -36,5 +36,17 @@ The following animation demonstrates the application functionality:
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./assets/images/05-third-party-apis-homework-demo.gif)
 
-- - -
+##
+
+
+## GitHub repository for Bootcamp Challenge 5
+---
+[Github Repo](https://github.com/RFox01/Work-Day-Scheduler)
+
+## Depoly website for Challenge 5
+---
+[Horiseon website](https://rfox01.github.io/Work-Day-Scheduler/)
+
+## License
+---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
